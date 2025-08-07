@@ -1,0 +1,35 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "services": "Our Services",
+    "contact": "Contact Us",
+    "notfound": "Page Not Found"
+  },
+  "footer": {
+    "brand": {
+      "name": "Ghanem",
+      "desc": "For Engineering & Plastics Industries"
+    },
+    "contact": {
+      "title": "Contact us",
+      "text": "Feel Free To Contact Us",
+      "phone1": "+2 (0) 1 0104 61618",
+      "phone2": "+2 (0) 1 0705 50163",
+      "email": "MohamedGhanem2020@outlook.com"
+    },
+    "location": {
+      "title": "Location",
+      "line1": "Plot No. 316",
+      "line2": "Ghanem Engineering & Plastics Industries",
+      "line3": "Sharqia",
+      "line4": "Egypt"
+    },
+    "links": {
+      "title": "Short Links",
+      "service": "Our Service",
+      "about": "About Us",
+      "contact": "Contact Us"
+    }
+  }
+}   
