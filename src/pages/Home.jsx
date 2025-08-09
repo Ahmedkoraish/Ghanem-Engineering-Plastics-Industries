@@ -19,7 +19,7 @@ export default function Home() {
 
       {/* about us */}
       <section className="bg-white py-10 px-4 sm:px-6 lg:px-20">
-        <h1 className="text-4xl font-bold text-gray-800 mb-4">
+        <h1 className="text-4xl font-bold text-center text-gray-800 mb-4">
           About Us
         </h1>
         <div className="max-w-7xl mx-auto flex flex-col lg:flex-row items-center lg:items-start gap-10">
